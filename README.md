@@ -11,18 +11,18 @@
 
 | # | Goal | Status | Link |
 |---|------|--------|------|
-| 0 | Setup: GitHub, Documentation Standards | 🟢 Done | [Portfolio README](./https://github.com/Tahoora-101/msc-cyber-research-portfolio/edit/main/README.md/) |
-| 1 | **Linux Foundations** → OTW Bandit | 🟢 Active | [Linux Journey](./1-TECHNICAL/Linux/) |
-| 2 | **Python Security** → FreeCodeCamp String Manipulation | 🟢 Active | [Python Security](./1-TECHNICAL/Python-Ciphers/) |
+| 0 | Setup: GitHub, Documentation Standards | 🟢 Done | 
+| 1 | **Linux Foundations** → OTW Bandit | 🟢 Active | 
+| 2 | **Python Security** → FreeCodeCamp String Manipulation | 🟢 Active | 
 | 3 | **Cipher Projects** → Caesar, Vigenère, XOR | ⚪ Planned | Future |
-| 4 | **Networking Mastery** → CompTIA Network+ Notes & Labs | 🟢 Active | [Networking Notes](https://github.com/Tahoora-101/Network-Notes) |
+| 4 | **Networking Mastery** → CompTIA Network+ Notes & Labs | 🟢 Active | 
 | 5 | **Security Fundamentals** → CompTIA Security+ Notes | ⚪ Planned | Future |
-| 6 | **Applied Research Report** → Dell Inspiron Stability Analysis | 🟡 Researching | [Dell Report](./2-RESEARCH/Dell-Inspiron-Case/) |
-| 7 | **Capture the Flag** → PicoCTF / HTB Writeups | ⚪ Planned | Future Projects |
-| 8 | **Formal Research Paper** → Academic-style technical publication | 🔴 Later | Future
-| 9 | **Policy Integration** → Cyber Policy Digests & Comparative Papers | 🟢 Active | [Policy Digests](./3-POLICY/) |
-| 10 | **Portfolio Polishing** → 2 major public repos (Linux + Networking) | 🔴 Later | Future
-| 11 | **Scholarship Readiness** → CV + Proposal + Supervisor Mapping | 🔴 Later | Future
+| 6 | **Applied Research Report** → Dell Inspiron Stability Analysis | 🟡 Researching 
+| 7 | **Capture the Flag** → PicoCTF / HTB Writeups | ⚪ Planned | 
+| 8 | **Formal Research Paper** → Academic-style technical publication | 🔴 Later | 
+| 9 | **Policy Integration** → Cyber Policy Digests & Comparative Papers | 🟢 Active | 
+| 10 | **Portfolio Polishing** → 2 major public repos (Linux + Networking) | 🔴 Later |
+| 11 | **Scholarship Readiness** → CV + Proposal + Supervisor Mapping | 🔴 Later | 
 
 ---
 
@@ -54,7 +54,7 @@ Bridging tech & strategy.
 | Project | Area | Status | Summary |
 |---------|------|--------|---------|
 | [OTW Bandit Walkthrough](./1-TECHNICAL/Linux/OTW-Bandit.md) | Linux | 🟢 Active | Linux fundamentals & privilege escalation basics |
-| [Python Ciphers](./1-TECHNICAL/Python-Ciphers/) | Python Security | 🟢 Active | Caesar, Vigenère, XOR implementations with docs |
+| [Python Ciphers](./1-TECHNICAL/Python-Ciphers/) | Python Security | 🟢 Active | String Manipulation |
 | [Dell Inspiron Case Report](./2-RESEARCH/Dell-Inspiron-Case/) | Research | 🟡 Planning | Hardware/driver incompatibility investigation |
 | [Cyber Policy Digest](./3-POLICY/Digests/) | Policy | 🟢 Active | Weekly notes linking technical issues to governance |
 
@@ -77,19 +77,11 @@ Bridging tech & strategy.
 
 ---
 
-## 📫 Contact  
-
-- GitHub: [Tahoora-101](https://github.com/Tahoora-101)  
-- LinkedIn: [Your Profile]  
-- Email: [Your email]  
-
----
-
 <div align="center">
 
 *“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.”* – Sun Tzu  
 
-**Last Updated**: {{current_date}}  
+**Last Updated**: 29-09-2025  
 
 </div>
 
