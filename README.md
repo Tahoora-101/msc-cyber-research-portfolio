@@ -9,14 +9,14 @@
 
 ## ✅ Progress Tracker (0–10 Goals)
 
-| # | Goal | Status | Link |
-|---|------|--------|------|
+| # | Goal | Status | 
+|---|------|--------|
 | 0 | Setup: GitHub, Documentation Standards | 🟢 Done | 
 | 1 | **Linux Foundations** → OTW Bandit | 🟢 Active | 
 | 2 | **Python Security** → FreeCodeCamp String Manipulation | 🟢 Active | 
-| 3 | **Cipher Projects** → Caesar, Vigenère, XOR | ⚪ Planned | Future |
+| 3 | **Cipher Projects** → Caesar, Vigenère, XOR | ⚪ Planned | 
 | 4 | **Networking Mastery** → CompTIA Network+ Notes & Labs | 🟢 Active | 
-| 5 | **Security Fundamentals** → CompTIA Security+ Notes | ⚪ Planned | Future |
+| 5 | **Security Fundamentals** → CompTIA Security+ Notes | ⚪ Planned | 
 | 6 | **Applied Research Report** → Dell Inspiron Stability Analysis | 🟡 Researching 
 | 7 | **Capture the Flag** → PicoCTF / HTB Writeups | ⚪ Planned | 
 | 8 | **Formal Research Paper** → Academic-style technical publication | 🔴 Later | 
