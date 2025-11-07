@@ -13,16 +13,15 @@
 |---|------|--------|
 | 0 | Setup: GitHub, Documentation Standards | 🟢 Done | 
 | 1 | **Linux Foundations** → OTW Bandit | 🟢 Active | 
-| 2 | **Python Security** → FreeCodeCamp String Manipulation | 🟢 Active | 
-| 3 | **Cipher Projects** → Caesar, Vigenère, XOR | ⚪ Planned | 
-| 4 | **Networking Mastery** → CompTIA Network+ Notes & Labs | 🟢 Active | 
-| 5 | **Security Fundamentals** → CompTIA Security+ Notes | ⚪ Planned | 
-| 6 | **Applied Research Report** → Dell Inspiron Stability Analysis | 🟡 Researching 
-| 7 | **Capture the Flag** → PicoCTF / HTB Writeups | ⚪ Planned | 
-| 8 | **Formal Research Paper** → Academic-style technical publication | 🔴 Later | 
-| 9 | **Policy Integration** → Cyber Policy Digests & Comparative Papers | 🟢 Active | 
-| 10 | **Portfolio Polishing** → 2 major public repos (Linux + Networking) | 🔴 Later |
-| 11 | **Scholarship Readiness** → CV + Proposal + Supervisor Mapping | 🔴 Later | 
+| 2 | **Cipher Projects** → Caesar, Vigenère, XOR | 🟢 Active | 
+| 3 | **Networking Mastery** → CompTIA Network+ Notes & Labs | 🟢 Active | 
+| 4 | **Security Fundamentals** → CompTIA Security+ Notes | ⚪ Planned | 
+| 5 | **Applied Research Report** → Dell Inspiron Stability Analysis | 🟡 Researching 
+| 6 | **Capture the Flag** → PicoCTF / HTB Writeups | ⚪ Planned | 
+| 7 | **Formal Research Paper** → Academic-style technical publication | 🔴 Later | 
+| 8 | **Policy Integration** → Cyber Policy Digests & Comparative Papers | 🟢 Active | 
+| 9 | **Portfolio Polishing** → 2 major public repos (Linux + Networking) | 🔴 Later |
+| 10 | **Scholarship Readiness** → CV + Proposal + Supervisor Mapping | 🔴 Later | 
 
 ---
 
